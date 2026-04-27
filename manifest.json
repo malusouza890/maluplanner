@@ -1,0 +1,21 @@
+{
+  "name": "Planner Financeiro 2026",
+  "short_name": "Planner",
+  "description": "Meu planner financeiro pessoal",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0A0F",
+  "theme_color": "#8B5CF6",
+  "lang": "pt-BR",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
